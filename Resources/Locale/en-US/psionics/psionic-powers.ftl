@@ -4,7 +4,7 @@ already-casting = I cannot channel more than one power at a time.
 # Dispel
 dispel-power-description = Dispel summoned entities such as familiars or forcewalls.
 dispel-power-initialization-feedback = The powers of fate are nothing to me. I feel as though I can reach out to the strands around me, and enforce reality upon others.
-dispel-power-metapsionic-feedback = {CAPITALIZE($entity)} is a mighty stone, standing against the currents of fate
+dispel-power-metapsionic-feedback = {CAPITALIZE($entity)} is a mighty stone, standing against the currents of fate.
 
 # Mass Sleep
 mass-sleep-power-description = Put targets in a small area to sleep.
@@ -47,7 +47,7 @@ metapsionic-power-metapsionic-feedback = {CAPITALIZE($entity)} gazes back upon t
 psionic-regeneration-power-description = Push your natural metabolism to the limit to power your body's regenerative capability.
 psionic-regeneration-power-initialization-feedback =
     I look within myself, finding a wellspring of life.
-psionic-regeneration-power-metapsionic-feedback = {CAPITALIZE($entity)} possesses an overwhelming will to live
+psionic-regeneration-power-metapsionic-feedback = {CAPITALIZE($entity)} possesses an overwhelming will to live.
 
 # Healing Word
 action-name-healing-word = Healing Word
@@ -79,7 +79,7 @@ telegnosis-power-initialization-feedback =
     Just as my mind reels from the displeasure of knowing colors that aren't, a creature I can only describe as a
     dragon with the wings of a peacock swoops down, and consumes my flesh in a single bite. I awaken in an instant, to a world utterly devoid
     of true, real colors.
-telegnosis-power-metapsionic-feedback = {CAPITALIZE($entity)}'s soul travels across bridges composed of dreamlight
+telegnosis-power-metapsionic-feedback = {CAPITALIZE($entity)}'s soul travels across bridges composed of dreamlight.
 
 # Psionic Invisibility
 psionic-invisibility-power-description =
@@ -89,7 +89,7 @@ psionic-invisibility-power-initialization-feedback =
     I suddenly find myself plunged into a world utterly without light, yet I can feel the rays of warmth cast upon me.
     Pondering this, I arrive at a realization that sight itself is an illusion. I reject it, I deny that light itself is real.
     When I awaken, I can no longer see even myself.
-psionic-invisibility-power-metapsionic-feedback = {CAPITALIZE($entity)}'s wyrd seeks to hide from thine gaze
+psionic-invisibility-power-metapsionic-feedback = {CAPITALIZE($entity)}'s wyrd seeks to hide from thine gaze.
 
 # Xenoglossy
 xenoglossy-power-description = You understand all languages.
@@ -131,7 +131,7 @@ action-description-telekinetic-pulse =
 telekinetic-pulse-power-description = { action-description-telekinetic-pulse }
 telekinetic-pulse-power-initialization-feedback =
     As I reach through the veil with my psyche, I discover a wellspring of pure kinetic energy. It courses through me, but I seem to lack fine control over it.
-telekinetic-pulse-power-metapsionic-feedback = {CAPITALIZE($entity)} has the essence of pure kinesis flowing through him.
+telekinetic-pulse-power-metapsionic-feedback = {CAPITALIZE($entity)} has the essence of pure kinesis flowing through them.
 
 # Pyrokinetic Flare
 action-name-pyrokinetic-flare = Pyrokinetic Flare
@@ -142,7 +142,7 @@ pyrokinetic-flare-power-initialization-feedback =
     My gaze is briefly filled with a flash of immense light and head, and for a single moment I can see a glimpse of a realm
     of fire and pain, of hunger and suffering. Just as soon as I glimpse it, the vision fades. But the memory of that flash lingers within my mind.
     I can recall it still, a glimpse of the fires of Gehenna.
-pyrokinetic-flare-power-metapsionic-feedback = Guh these don't even matter because nobody can read this line in-game and I don't know when I'm ever bringing back Narrow Pulse
+pyrokinetic-flare-power-metapsionic-feedback = {CAPITALIZE($entity)} is the point of intersection between the blazing firmament and Gehenna.
 
 # Summon Imp
 action-name-summon-imp = Summon Imp
@@ -167,7 +167,7 @@ examine-mindbroken-message =
     There is nothing behind its gaze, no evidence there can be found of the divine light of creation.
 psionic-roll-failed = For a moment, my consciousness expands, yet I feel that it is not enough.
 entity-anomaly-no-grid = There is nowhere for me to conjure beings.
-power-overwhelming-power-feedback = {CAPITALIZE($entity)} wields a vast connection to the noösphere
+power-overwhelming-power-feedback = {CAPITALIZE($entity)} wields a vast connection to the noösphere.
 
 # DarkSwap
 action-name-darkswap = DarkSwap
